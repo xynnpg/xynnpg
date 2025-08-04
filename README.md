@@ -39,8 +39,8 @@ I like to build things that are useful, fast, and actually do something.
 </p>
 
 ### 📫 Let’s talk
-- Discord: `xynn#1234`  
-- Email: `your@email.com`  
+- Discord: `xynnpg`  
+- Email: `doanadarius543@gmail.com`  
 - Or drop an issue in any of my repos if it's code-related
 
 ---
@@ -74,8 +74,8 @@ Salut, eu sunt **Darius** — un licean care scrie cod ca și cum ar fi magie ne
 </p>
 
 ### 📬 Contact
-- Discord: `xynn#1234`  
-- Email: `your@email.com`  
+- Discord: `xynnpg`  
+- Email: `doanadarius543@gmail.com`   
 - Sau lasă un issue pe un repo dacă e despre cod
 
 ---
