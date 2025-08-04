@@ -1,71 +1,85 @@
 
 <p align="center">
-  <b>Darius — Coding, Creating & Learning</b>  
+  <b>Darius // building stuff that actually works</b>  
 </p>
 
 <p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#languages">Languages</a> •
-  <a href="#contact">Contact</a>
+  <a href="#english">🇬🇧 English</a> • 
+  <a href="#română">🇷🇴 Română</a>
 </p>
 
 ---
 
-## 🧠 Overview
+## 🇬🇧 English
 
-High school developer exploring tech through **projects, learning, and experiments**. I build tools in Python, Flask, PyQt5 and dabble in HTML/CSS for web UI.
+Hey, I’m **Darius** — high school dev who codes like it’s a superpower 🧙‍♂️  
+I like to build things that are useful, fast, and actually do something.
 
-Fancy looking at my stats?  
+> No fluff. Just clean tools, practical logic, and vibes.
+
+### 🛠 What I work with:
+- **Python** (main)  
+- **Flask** for web stuff  
+- **PyQt5** for real desktop apps  
+- **HTML/CSS** when I need it pretty  
+- **SQLite + APIs** for data & backend
+
+### 🧪 What I’ve made:
+| 🚀 Project | 🔎 Description | 🔗 |
+|-----------|----------------|----|
+| **SpotifyDownloader** | Local music downloader with yt-dlp | [Repo](https://github.com/xynnpg/SpotifyDownloader) |
+| **justlearnithistory** | Simple history learning web app | [Repo](https://github.com/xynnpg/justlearnithistory) |
+| + more coming... | I'm always testing ideas | 👀 |
+
+### 📈 My stats are doing stats things:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xynnpg&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xynnpg&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xynnpg&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🧩 Projects
-
-| Project | Description | 🔗 Link |
-|--------|-------------|---------|
-| **SpotifyDownloader** | CLI/gui tool for downloading music locally | [GitHub Repo]() |
-| **justlearnithistory** | Educational content site with history quizzes | [GitHub Repo]() |
-| *More coming soon...* | Stay tuned | — |
-
-Each project includes screenshots, installation steps, tech stack, and license info.
-
----
-
-## ⚙️ Tech Stack
-
-- **Languages**: Python, HTML, CSS, basic JavaScript  
-- **Frameworks/Libraries**: Flask, PyQt5  
-- **Databases & APIs**: SQLite, JSON APIs  
-- **Dev Tools**: Git, VSCode, terminal 🐚
-
----
-
-## 🌍 Languages
-
-- 🇬🇧 English
-- 🇷🇴 Română
-- 🇩🇪 Deutsch
-- 🇫🇷 Français
-
-Scroll up or use the language buttons in my profile README navigation to switch sections.
-
----
-
-## 📫 Contact
-
-- 📧 your@email.com  
+### 📫 Let’s talk
 - Discord: `xynn#1234`  
-- LinkedIn: *(insert your link)*  
+- Email: `your@email.com`  
+- Or drop an issue in any of my repos if it's code-related
 
-I’m always open to collabs, feedback, or cool ideas—hit me up!  
+---
+
+## 🇷🇴 Română
+
+Salut, eu sunt **Darius** — un licean care scrie cod ca și cum ar fi magie neagră 🧙‍♂️  
+Îmi place să construiesc chestii care sunt utile, rapide și chiar funcționează.
+
+> Fără abureli. Doar tool-uri clare, logică practică și puțin vibe.
+
+### 🛠 Cu ce lucrez:
+- **Python** (de bază)  
+- **Flask** pentru web  
+- **PyQt5** pentru aplicații desktop reale  
+- **HTML/CSS** când vreau să arate frumos  
+- **SQLite + API-uri** pentru date & backend
+
+### 🧪 Ce-am construit:
+| 🚀 Proiect | 🔎 Descriere | 🔗 |
+|-----------|-------------|----|
+| **SpotifyDownloader** | Downloader de muzică local cu yt-dlp | [Repo](https://github.com/xynnpg/SpotifyDownloader) |
+| **justlearnithistory** | Aplicație educativă simplă pentru istorie | [Repo](https://github.com/xynnpg/justlearnithistory) |
+| + urmează | Testez constant idei noi | 👀 |
+
+### 📊 GitHub zice că-s activ:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xynnpg&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xynnpg&layout=compact&theme=tokyonight" />
+</p>
+
+### 📬 Contact
+- Discord: `xynn#1234`  
+- Email: `your@email.com`  
+- Sau lasă un issue pe un repo dacă e despre cod
 
 ---
 
 <p align="center">
-  ⭐ Built with ❤️ by Darius  
+  <i>"Code is poetry, but I’m not writing sonnets — I’m building hammers."</i>  
 </p>
