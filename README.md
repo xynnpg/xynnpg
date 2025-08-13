@@ -28,7 +28,8 @@ I like to build things that are useful, fast, and actually do something.
 | 🚀 Project | 🔎 Description | 🔗 |
 |-----------|----------------|----|
 | **SpotifyDownloader** | Local music downloader with yt-dlp | [Repo](https://github.com/xynnpg/SpotifyDownloader) |
-| **justlearnithistory** | Simple history learning web app | [Repo](https://github.com/xynnpg/justlearnithistory) |
+| **justlearnit** | Simple history learning web app | [Repo](https://github.com/xynnpg/JustLearnIt) |
+| **Discord AI Bot** | Discord ai bot with a web intergace | [Repo](https://github.com/xynnpg/DiscordAI) |
 | + more coming... | I'm always testing ideas | 👀 |
 
 ### 📈 My stats are doing stats things:
@@ -63,7 +64,8 @@ Salut, eu sunt **Darius** — un licean care scrie cod ca și cum ar fi magie ne
 | 🚀 Proiect | 🔎 Descriere | 🔗 |
 |-----------|-------------|----|
 | **SpotifyDownloader** | Downloader de muzică local cu yt-dlp | [Repo](https://github.com/xynnpg/SpotifyDownloader) |
-| **justlearnithistory** | Aplicație educativă simplă pentru istorie | [Repo](https://github.com/xynnpg/justlearnithistory) |
+| **justlearnit** | Aplicație educativă simplă pentru istorie | [Repo](https://github.com/xynnpg/JustLearnIT) |
+| **Discord AI Bot** | Discord ai bot cu o interfata web | [Repo](https://github.com/xynnpg/DiscordAI) |
 | + urmează | Testez constant idei noi | 👀 |
 
 ### 📊 GitHub zice că-s activ:
