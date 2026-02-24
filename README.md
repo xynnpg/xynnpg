@@ -78,7 +78,7 @@ I'd rather make something real, even if it breaks a few times first.
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l34grinsacuyxjsjvuwhygbgii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)" alt="Spotify Now Playing" />
   </a>
 </p>
 
