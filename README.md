@@ -74,7 +74,13 @@ I'd rather make something real, even if it breaks a few times first.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnpg&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
 </p>
 
+<h3 align="center">Now Playing</h3>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 <h3 align="center">Reach me</h3>
 
@@ -156,7 +162,13 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnpg&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
 </p>
 
+<h3 align="center">Ascult acum</h3>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 <h3 align="center">Contact</h3>
 
