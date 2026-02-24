@@ -166,7 +166,7 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l34grinsacuyxjsjvuwhygbgii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
