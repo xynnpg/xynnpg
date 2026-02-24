@@ -28,6 +28,19 @@ I'd rather make something real, even if it breaks a few times first.
   Always got a few side ideas brewing too, so the repo list tends to grow.
 </p>
 
+<h3 align="center">Currently learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  C++ in school, and going deeper into Flutter, Dart and Docker on my own.
+</p>
+
 <h3 align="center">What I work with</h3>
 
 <p align="center">
@@ -58,6 +71,22 @@ I'd rather make something real, even if it breaks a few times first.
 
 </div>
 
+<h3 align="center">My journey so far</h3>
+
+<div align="center">
+
+| When | What happened |
+|------|---------------|
+| **Mar 2025** | Started coding — built **SpotifyDownloader**, my first real project |
+| **Mar 2025** | Made **JustLearnIt**, a history learning app that people actually used |
+| **Aug 2025** | Got into AI and bots — shipped **DiscordAI** with a web dashboard |
+| **Oct 2025** | Took on a real-world project — **ServerAppPontaj** attendance system |
+| **Jan 2026** | Built **CheapMaps**, a desktop navigation app with PyQt5 + Leaflet.js |
+| **Jan 2026** | Created **SchoolYear**, an open data API for school holidays |
+| **Now** | Learning C++ in school, expanding into mobile dev and backend APIs |
+
+</div>
+
 <h3 align="center">Stats</h3>
 
 <p align="center">
@@ -72,6 +101,12 @@ I'd rather make something real, even if it breaks a few times first.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnpg&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
+</p>
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xynnpg/xynnpg/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <h3 align="center">Now Playing</h3>
@@ -116,6 +151,19 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
   Am mereu câteva idei în paralel, deci lista de repo-uri tinde să crească.
 </p>
 
+<h3 align="center">Invat in prezent</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  C++ la scoala, si aprofundez Flutter, Dart si Docker pe cont propriu.
+</p>
+
 <h3 align="center">Cu ce lucrez</h3>
 
 <p align="center">
@@ -146,6 +194,22 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 
 </div>
 
+<h3 align="center">Parcursul meu</h3>
+
+<div align="center">
+
+| Cand | Ce s-a intamplat |
+|------|------------------|
+| **Mar 2025** | Am inceput sa programez — am construit **SpotifyDownloader**, primul meu proiect real |
+| **Mar 2025** | Am facut **JustLearnIt**, o aplicatie de invatat istorie care chiar a fost folosita |
+| **Aug 2025** | M-am bagat in AI si boti — am lansat **DiscordAI** cu un dashboard web |
+| **Oct 2025** | Am luat un proiect real — **ServerAppPontaj**, sistem de pontaj |
+| **Ian 2026** | Am construit **CheapMaps**, o aplicatie desktop de navigare cu PyQt5 + Leaflet.js |
+| **Ian 2026** | Am creat **SchoolYear**, un API cu date despre vacantele scolare |
+| **Acum** | Invat C++ la scoala, ma extind in mobile dev si backend APIs |
+
+</div>
+
 <h3 align="center">Statistici</h3>
 
 <p align="center">
@@ -160,6 +224,12 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnpg&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
+</p>
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xynnpg/xynnpg/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <h3 align="center">Ascult acum</h3>
@@ -187,7 +257,7 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 ---
 
 <p align="center">
-  <i>"I don't always test my code, but when I do, I do it in production."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=xynnpg&style=flat-square&color=58A6FF" alt="Profile views" />
 </p>
