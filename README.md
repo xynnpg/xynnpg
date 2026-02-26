@@ -88,6 +88,12 @@ I'd rather make something real, even if it breaks a few times first.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnpg&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
 </p>
 
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xynnpg/xynnpg/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 <h3 align="center">Reach me</h3>
 
@@ -181,6 +187,12 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnpg&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
+</p>
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xynnpg/xynnpg/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
