@@ -62,7 +62,7 @@ I'd rather make something real, even if it breaks a few times first.
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**BreakCount**](https://github.com/xynnpg/breakcount) | Student app that counts down to school breaks — with a timetable, exam tracker, AI schedule parser from a photo, home screen widgets, and Google Drive backup | Flutter, Dart, Python |
+| [**BreakCount**](https://github.com/xynnpg/breakcount) | Student app that counts down to school breaks — with a timetable, exam tracker, AI schedule parser from a photo, home screen widgets, and Google Drive backup | Flutter, Dart |
 | [**CheapMaps**](https://github.com/xynnpg/CheapMaps) | Desktop navigation app with route planning and a dark UI — like Google Maps, but free and offline-ready | Python, PyQt5, Leaflet.js |
 | [**ServerAppPontaj**](https://github.com/xynnpg/ServerAppPontaj) | Attendance system with login, dashboards, and Docker deployment — built for an actual use case | Flutter, Dart, Docker |
 | [**SpotifyDownloader**](https://github.com/xynnpg/SpotifyDownloader) | Downloads music locally with yt-dlp — simple, does what it says | Python |
@@ -164,7 +164,7 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 
 | Proiect | Ce face | Stack |
 |---------|---------|-------|
-| [**BreakCount**](https://github.com/xynnpg/breakcount) | Aplicatie pentru elevi care numara zilele pana la vacanta — cu orar, tracker de teze, parser AI din poza, widget-uri home screen si backup Google Drive | Flutter, Dart, Python |
+| [**BreakCount**](https://github.com/xynnpg/breakcount) | Aplicatie pentru elevi care numara zilele pana la vacanta — cu orar, tracker de teze, parser AI din poza, widget-uri home screen si backup Google Drive | Flutter, Dart |
 | [**CheapMaps**](https://github.com/xynnpg/CheapMaps) | Aplicatie desktop de navigare cu rute si UI dark — ca Google Maps, dar gratis si merge offline | Python, PyQt5, Leaflet.js |
 | [**ServerAppPontaj**](https://github.com/xynnpg/ServerAppPontaj) | Sistem de pontaj cu login, dashboard-uri si deploy pe Docker — facut pentru un caz real | Flutter, Dart, Docker |
 | [**SpotifyDownloader**](https://github.com/xynnpg/SpotifyDownloader) | Descarca muzica local cu yt-dlp — simplu, face exact ce zice | Python |
