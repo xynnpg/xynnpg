@@ -1,4 +1,4 @@
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f6df3cf2-114c-4441-a86b-b859d43f9b03" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+darius;building+stuff+that+works;...most+of+the+time" alt="Typing SVG" />
 </p>
