@@ -20,10 +20,24 @@ I'm not really the "follow a tutorial and call it a day" type.<br>
 I'd rather make something real, even if it breaks a few times first.
 </p>
 
+<p align="center">
+  More about me, my work and my resume: <a href="https://doanadarius.page/"><b>doanadarius.page</b></a>
+</p>
+
+<h3 align="center">Highlights</h3>
+
+<p align="center">
+  <b>National Robotics Champion</b> — 1st place, AI category at NextLab 2025 (NVIDIA Jetson Nano JetBot)<br>
+  <b>County CS Olympiad</b> — bronze medal<br>
+  <b>PCEP-30-02</b> — Python Certified Entry-Level Programmer (2026)<br>
+  <b>BreakCount</b> — my Flutter app, now used by students in 33+ countries
+</p>
+
 <h3 align="center">What I'm up to right now</h3>
 
 <p align="center">
-  Currently working on <a href="https://github.com/xynnpg/breakcount"><b>BreakCount</b></a> — a student app that counts down to your next school break, with a timetable, exam tracker, AI schedule parser, and home screen widgets.<br>
+  Actively building <a href="https://github.com/xynnpg/BreakCount"><b>BreakCount</b></a> — a student app that counts down to your next school break, with a timetable, exam tracker, AI schedule parser, and home screen widgets. Live at <a href="https://breakcount.tech">breakcount.tech</a>.<br>
+  Also working on the backend API for <a href="https://github.com/xynnpg/ServerAppPontaj"><b>ServerAppPontaj</b></a>.<br>
   Always got a few side ideas brewing too, so the repo list tends to grow.
 </p>
 
@@ -61,13 +75,17 @@ I'd rather make something real, even if it breaks a few times first.
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**BreakCount**](https://github.com/xynnpg/breakcount) | Student app that counts down to school breaks — with a timetable, exam tracker, AI schedule parser from a photo, home screen widgets, and Google Drive backup | Flutter, Dart |
-| [**CheapMaps**](https://github.com/xynnpg/CheapMaps) | Desktop navigation app with route planning and a dark UI — like Google Maps, but free and offline-ready | Python, PyQt5, Leaflet.js |
+| [**BreakCount**](https://github.com/xynnpg/BreakCount) | School break countdown app that grew into schedules, exams, AI timetable scanning, personas and widgets — live at [breakcount.tech](https://breakcount.tech), used in 33+ countries | Flutter, Dart |
 | [**ServerAppPontaj**](https://github.com/xynnpg/ServerAppPontaj) | Attendance system with login, dashboards, and Docker deployment — built for an actual use case | Flutter, Dart, Docker |
-| [**SpotifyDownloader**](https://github.com/xynnpg/SpotifyDownloader) | Downloads music locally with yt-dlp — simple, does what it says | Python |
-| [**JustLearnIt**](https://github.com/xynnpg/JustLearnIt) | A clean little history learning app for when you want to actually remember things | HTML, CSS, JS |
+| [**AradLens Admin**](https://github.com/xynnpg/AradLens-MG) | Operational admin workspace with proxied token auth, a bilingual (EN/RO) UI and Docker Compose deployment | JavaScript, Docker |
+| [**bluetooth-bridge**](https://github.com/xynnpg/bluetooth-bridge) | Streams a Bluetooth Xbox controller from a Linux box to a Windows PC over WiFi — shows up as a real wired pad | Python, Docker |
+| [**DisStore**](https://github.com/xynnpg/DisStore) | End-to-end encrypted file storage that uses a Discord server as its backend (AES-256-GCM, chunked) | Python |
+| [**CheapMaps**](https://github.com/xynnpg/CheapMaps) | Desktop navigation app with route planning and a dark UI — like Google Maps, but free and offline-ready | Python, PyQt5, Leaflet.js |
 | [**DiscordAI**](https://github.com/xynnpg/DiscordAI) | AI-powered Discord bot with a web interface for managing it | HTML, Python |
 | [**SchoolYear**](https://github.com/xynnpg/SchoolYear) | School holiday data for multiple countries, served as static JSON via GitHub Pages | HTML |
+| [**SpotifyDownloader**](https://github.com/xynnpg/SpotifyDownloader) | Downloads music locally with yt-dlp — simple, does what it says | Python |
+| [**JustLearnIt**](https://github.com/xynnpg/JustLearnIt) | A clean little history learning app for when you want to actually remember things | HTML, CSS, JS |
+| [**doanadarius**](https://github.com/xynnpg/doanadarius) | My personal portfolio and resume — live at [doanadarius.page](https://doanadarius.page) | HTML, CSS, JS |
 
 </div>
 
@@ -98,6 +116,14 @@ I'd rather make something real, even if it breaks a few times first.
 <h3 align="center">Reach me</h3>
 
 <p align="center">
+  <a href="https://doanadarius.page/">
+    <img src="https://img.shields.io/badge/Website-doanadarius.page-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/darius-eduard-doana-8685b038b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Darius--Eduard_Doana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://discord.com/users/xynnpg">
     <img src="https://img.shields.io/badge/Discord-xynnpg-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -106,7 +132,8 @@ I'd rather make something real, even if it breaks a few times first.
     <img src="https://img.shields.io/badge/Email-doanadarius543-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
-  Or just open an issue on any of my repos, I check those.
+  Or just open an issue on any of my repos, I check those.<br>
+  If my work saved you some time, you can <a href="https://buymeacoffee.com/xynnpg">buy me a coffee</a>.
 </p>
 
 ---
@@ -122,10 +149,24 @@ Nu sunt genul care urmează un tutorial și gata, proiect terminat.<br>
 Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 </p>
 
+<p align="center">
+  Mai multe despre mine, munca mea și CV-ul: <a href="https://doanadarius.page/"><b>doanadarius.page</b></a>
+</p>
+
+<h3 align="center">Realizări</h3>
+
+<p align="center">
+  <b>Camp national de robotica</b> — locul 1, categoria AI la NextLab 2025 (NVIDIA Jetson Nano JetBot)<br>
+  <b>Olimpiada de Informatica</b> — medalia de bronz, etapa judeteana<br>
+  <b>PCEP-30-02</b> — Python Certified Entry-Level Programmer (2026)<br>
+  <b>BreakCount</b> — aplicatia mea Flutter, folosita de elevi din 33+ tari
+</p>
+
 <h3 align="center">La ce lucrez acum</h3>
 
 <p align="center">
-  Lucrez la <a href="https://github.com/xynnpg/breakcount"><b>BreakCount</b></a> — o aplicatie pentru elevi care numara zilele pana la urmatoarea vacanta, cu orar, tracker de teze, parser AI de orar din poza si widget-uri pe ecranul de start.<br>
+  Construiesc activ <a href="https://github.com/xynnpg/BreakCount"><b>BreakCount</b></a> — o aplicatie pentru elevi care numara zilele pana la urmatoarea vacanta, cu orar, tracker de teze, parser AI de orar din poza si widget-uri pe ecranul de start. Live la <a href="https://breakcount.tech">breakcount.tech</a>.<br>
+  Lucrez si la API-ul backend pentru <a href="https://github.com/xynnpg/ServerAppPontaj"><b>ServerAppPontaj</b></a>.<br>
   Am mereu câteva idei în paralel, deci lista de repo-uri tinde să crească.
 </p>
 
@@ -163,13 +204,17 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 
 | Proiect | Ce face | Stack |
 |---------|---------|-------|
-| [**BreakCount**](https://github.com/xynnpg/breakcount) | Aplicatie pentru elevi care numara zilele pana la vacanta — cu orar, tracker de teze, parser AI din poza, widget-uri home screen si backup Google Drive | Flutter, Dart |
-| [**CheapMaps**](https://github.com/xynnpg/CheapMaps) | Aplicatie desktop de navigare cu rute si UI dark — ca Google Maps, dar gratis si merge offline | Python, PyQt5, Leaflet.js |
+| [**BreakCount**](https://github.com/xynnpg/BreakCount) | Aplicatie cu numaratoarea inversa pana la vacanta, transformata in orar, examene, scanare AI a orarului, personaje si widget-uri — live la [breakcount.tech](https://breakcount.tech), folosita in 33+ tari | Flutter, Dart |
 | [**ServerAppPontaj**](https://github.com/xynnpg/ServerAppPontaj) | Sistem de pontaj cu login, dashboard-uri si deploy pe Docker — facut pentru un caz real | Flutter, Dart, Docker |
-| [**SpotifyDownloader**](https://github.com/xynnpg/SpotifyDownloader) | Descarca muzica local cu yt-dlp — simplu, face exact ce zice | Python |
-| [**JustLearnIt**](https://github.com/xynnpg/JustLearnIt) | Aplicatie de invatat istorie — pentru cand vrei sa-ti amintesti lucruri | HTML, CSS, JS |
+| [**AradLens Admin**](https://github.com/xynnpg/AradLens-MG) | Spatiu de administrare operational cu autentificare prin proxy, interfata bilingva (EN/RO) si deploy cu Docker Compose | JavaScript, Docker |
+| [**bluetooth-bridge**](https://github.com/xynnpg/bluetooth-bridge) | Transmite un controller Xbox Bluetooth de pe un server Linux catre un PC Windows prin WiFi — apare ca un gamepad cu fir real | Python, Docker |
+| [**DisStore**](https://github.com/xynnpg/DisStore) | Stocare de fisiere criptata end-to-end, cu un server Discord ca backend (AES-256-GCM, fragmentare) | Python |
+| [**CheapMaps**](https://github.com/xynnpg/CheapMaps) | Aplicatie desktop de navigare cu rute si UI dark — ca Google Maps, dar gratis si merge offline | Python, PyQt5, Leaflet.js |
 | [**DiscordAI**](https://github.com/xynnpg/DiscordAI) | Bot de Discord cu AI si interfata web pentru management | HTML, Python |
 | [**SchoolYear**](https://github.com/xynnpg/SchoolYear) | Date despre vacantele scolare din mai multe tari, servite ca JSON static pe GitHub Pages | HTML |
+| [**SpotifyDownloader**](https://github.com/xynnpg/SpotifyDownloader) | Descarca muzica local cu yt-dlp — simplu, face exact ce zice | Python |
+| [**JustLearnIt**](https://github.com/xynnpg/JustLearnIt) | Aplicatie de invatat istorie — pentru cand vrei sa-ti amintesti lucruri | HTML, CSS, JS |
+| [**doanadarius**](https://github.com/xynnpg/doanadarius) | Portofoliul si CV-ul meu personal — live la [doanadarius.page](https://doanadarius.page) | HTML, CSS, JS |
 
 </div>
 
@@ -200,6 +245,14 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 <h3 align="center">Contact</h3>
 
 <p align="center">
+  <a href="https://doanadarius.page/">
+    <img src="https://img.shields.io/badge/Website-doanadarius.page-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/darius-eduard-doana-8685b038b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Darius--Eduard_Doana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://discord.com/users/xynnpg">
     <img src="https://img.shields.io/badge/Discord-xynnpg-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -208,7 +261,8 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
     <img src="https://img.shields.io/badge/Email-doanadarius543-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
-  Sau deschide un issue pe orice repo, le verific.
+  Sau deschide un issue pe orice repo, le verific.<br>
+  Daca munca mea ti-a economisit timp, poti sa-mi <a href="https://buymeacoffee.com/xynnpg">cumperi o cafea</a>.
 </p>
 
 ---
