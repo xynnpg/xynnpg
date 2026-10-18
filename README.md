@@ -93,9 +93,9 @@ I'd rather make something real, even if it breaks a few times first.
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xynnpg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xynnpg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xynnpg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xynnpg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=xynnpg&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
@@ -222,9 +222,9 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 <h3 align="center">Statistici</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xynnpg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xynnpg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xynnpg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xynnpg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=xynnpg&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
