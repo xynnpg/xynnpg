@@ -270,5 +270,5 @@ Prefer să fac ceva real, chiar dacă se strică de câteva ori pe drum.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=xynnpg&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
+  <img src="https://hits.sh/github.com/xynnpg/xynnpg.svg?style=flat-square&label=Profile%20views&color=58A6FF" alt="Profile views" />
 </p>
